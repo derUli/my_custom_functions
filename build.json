@@ -1,0 +1,12 @@
+{
+	"id": "my_custom_functions",
+	"version": "1.0",
+	"description": "View metadata.json files",
+	"categories": [
+		"development",
+		"editor"
+	],
+	"dependencies": [
+		"php_check_syntax"
+	]
+}
