@@ -6,6 +6,6 @@ echo ModuleHelper::buildMethodCallForm("MyCustomFunctions", "save");
 		data-mimetype="application/x-httpd-php"><?php Template::escape(ViewBag::get("code"));?></textarea>
 </p>
 <p>
-	<button type="submit" class="btn btn-danger"><?php translate("save");?></button>
+	<button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> <?php translate("save");?></button>
 </p>
 </form>

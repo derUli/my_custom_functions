@@ -1,6 +1,6 @@
 {
 	"id": "my_custom_functions",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "View metadata.json files",
 	"categories": [
 		"development",
@@ -9,5 +9,5 @@
 	"dependencies": [
 		"php_check_syntax"
 	],
-	"compatible_from": "2018.1"
+	"compatible_from": "2019.1.3"
 }
