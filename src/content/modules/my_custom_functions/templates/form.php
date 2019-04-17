@@ -9,3 +9,6 @@ echo ModuleHelper::buildMethodCallForm("MyCustomFunctions", "save");
 	<button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> <?php translate("save");?></button>
 </p>
 </form>
+<?php 
+BackendHelper::enqueueEditorScripts();
+combinedScriptHtml();
