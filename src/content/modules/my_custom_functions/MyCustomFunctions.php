@@ -1,5 +1,7 @@
 <?php
 
+use UliCMS\Utils\File;
+
 class MyCustomFunctions extends Controller
 {
 
